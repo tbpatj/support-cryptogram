@@ -1,0 +1,24 @@
+A=Q
+J=U
+C=E
+I=M
+L=P
+Q=N
+Y=O
+P=I
+U=t
+D=r
+B=S
+Z=A
+F=g
+K=c
+E=D
+W=V
+
+Queue
+
+Pair-Programming
+
+Advisor Meetings
+
+Message Instructor or mentor
